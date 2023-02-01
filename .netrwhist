@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/ops/.config/nvim/plugin'
+let g:netrw_dirhist_3='/Users/ops/.config/nvim'
+let g:netrw_dirhist_2='/Users/ops/work/jsonbourne.xyz/payroll'
+let g:netrw_dirhist_1='/Users/ops/.config/nvim/lua'
